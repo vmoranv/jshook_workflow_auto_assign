@@ -1,4 +1,5 @@
 name: auto-assign
 description: JSHook workflow for auto-assign
 author: vmoranv
+source_repo: https://github.com/vmoranv/jshook_workflow_auto_assign
 tags: ""
