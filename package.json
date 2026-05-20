@@ -10,7 +10,7 @@
     "check": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "@jshookmcp/extension-sdk": "^0.3.0"
+    "@jshookmcp/extension-sdk": "^0.3.2"
   },
   "devDependencies": {
     "@types/node": "^25.3.0",
